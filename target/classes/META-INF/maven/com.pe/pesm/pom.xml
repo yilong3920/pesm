@@ -17,7 +17,7 @@
 	<!--编译 构建 -->
 	<build>
 		<plugins>
-			<!-- 项目编译配置 -->
+			<!-- 项目编译配置 jdk encoding 等 -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
